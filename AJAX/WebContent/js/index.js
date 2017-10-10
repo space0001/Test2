@@ -1,0 +1,12 @@
+/*$(function(){
+	$.ajax({
+		url:"login.do",
+		type:"post",
+		success:function(result){
+			alert(result);
+		}
+	});
+	$.post("login.do",function(result){
+		alert(result);
+	});
+});*/
